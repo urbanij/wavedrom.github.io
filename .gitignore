@@ -4,3 +4,6 @@ build
 src
 package-lock.json
 build.sh
+
+/skins
+/wavedrom.min.js
