@@ -8,6 +8,7 @@
   },
   "scripts": {
     "test": "eslint editor.js init.js",
+    "build:site": "./build-site.sh",
     "build": "./build-wde.sh"
   },
   "repository": {
@@ -24,6 +25,7 @@
   "devDependencies": {
     "@drom/eslint-config": "^0.12.0",
     "codemirror": "^5.65.18",
+    "esbuild": "^0.28.0",
     "eslint": "^8.57.1",
     "wavedrom": "git+https://github.com/urbanij/wavedrom.git#feat/bump-bitfield"
   },
