@@ -104,7 +104,7 @@
 
     "balanced-match": ["balanced-match@1.0.2", "", {}, "sha512-3oSeUO0TMV67hN1AmbXsK4yaqU7tjiHlbxRDZOpH0KW9+CeX4bRAaX0Anxt0tx2MrpRpWwQaPwIlISEJhYU5Pw=="],
 
-    "bit-field": ["bit-field@github:urbanij/bitfield#bd9504a", { "dependencies": { "fs-extra": "^11.2.0", "onml": "^2.1.0", "tspan": "^0.4.0", "yargs": "^17.7.2" }, "bin": { "bitfield": "./bin/bitfield.js" } }, "urbanij-bitfield-bd9504a", "sha512-+sWAcfjrsZYZlepW2znzgxiFnf5RiSD/r2iCEiFlot0sQ9MBjfZE1WjpcKoJ2rB4b9L5FhQmOpmnLoXXA85f4w=="],
+    "bit-field": ["bit-field@github:urbanij/bitfield#20ad3d5", { "dependencies": { "fs-extra": "^11.2.0", "onml": "^2.1.0", "tspan": "^0.4.0", "yargs": "^17.7.2" }, "bin": { "bitfield": "./bin/bitfield.js" } }, "urbanij-bitfield-20ad3d5", "sha512-fBBtz0jPtQhJzteFT/Prk2BOzk4IT0I6V+TRPy+sSXF3nDoUWPuOwo+WmwE6T8N7WeypzL7VIOxr9plYbKeHzA=="],
 
     "brace-expansion": ["brace-expansion@1.1.18", "", { "dependencies": { "balanced-match": "^1.0.0", "concat-map": "0.0.1" } }, "sha512-Edep/X9fGqVNmzKBVsDYIOtD+z1tuezV70LBjdCst9Tqu76lsnvRiZ6oTic1n+/BIwX6QDGAO94PN4N2SADvtw=="],
 
