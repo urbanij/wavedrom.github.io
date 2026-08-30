@@ -104,7 +104,7 @@
 
     "balanced-match": ["balanced-match@1.0.2", "", {}, "sha512-3oSeUO0TMV67hN1AmbXsK4yaqU7tjiHlbxRDZOpH0KW9+CeX4bRAaX0Anxt0tx2MrpRpWwQaPwIlISEJhYU5Pw=="],
 
-    "bit-field": ["bit-field@github:urbanij/bitfield#20ad3d5", { "dependencies": { "fs-extra": "^11.2.0", "onml": "^2.1.0", "tspan": "^0.4.0", "yargs": "^17.7.2" }, "bin": { "bitfield": "./bin/bitfield.js" } }, "urbanij-bitfield-20ad3d5", "sha512-fBBtz0jPtQhJzteFT/Prk2BOzk4IT0I6V+TRPy+sSXF3nDoUWPuOwo+WmwE6T8N7WeypzL7VIOxr9plYbKeHzA=="],
+    "bit-field": ["bit-field@github:urbanij/bitfield#9c9db74", { "dependencies": { "fs-extra": "^11.2.0", "onml": "^2.1.0", "tspan": "^0.4.0", "yargs": "^17.7.2" }, "bin": { "bitfield": "./bin/bitfield.js" } }, "urbanij-bitfield-9c9db74", "sha512-pbmR/9qKP+m87zgi7xNSGybVMNJSEASTxp6FBiuSDSKK1dRQ1/QESVe8UwVaC7RLD8CSQHdCOOCEh1UGcG442w=="],
 
     "brace-expansion": ["brace-expansion@1.1.18", "", { "dependencies": { "balanced-match": "^1.0.0", "concat-map": "0.0.1" } }, "sha512-Edep/X9fGqVNmzKBVsDYIOtD+z1tuezV70LBjdCst9Tqu76lsnvRiZ6oTic1n+/BIwX6QDGAO94PN4N2SADvtw=="],
 
@@ -296,7 +296,7 @@
 
     "uri-js": ["uri-js@4.4.1", "", { "dependencies": { "punycode": "^2.1.0" } }, "sha512-7rKUyy33Q1yc98pQ1DAmLtwX109F7TIfWlW1Ydo8Wl1ii1SeHieeh0HHfPeL2fMXK6z0s8ecKs9frCuLJvndBg=="],
 
-    "wavedrom": ["wavedrom@github:urbanij/wavedrom#418ada6", { "dependencies": { "bit-field": "git+https://github.com/urbanij/bitfield.git#feat/expand-lanes", "json5": "^2.2.3", "logidrom": "^0.3.1", "onml": "^2.1.0", "tspan": "^0.4.0" }, "bin": { "wavedrom": "bin/cli.js" } }, "urbanij-wavedrom-418ada6", "sha512-Ii+8tLQa9D6mXr6VyP5ylugMeIbSpLS0lYdgmUCwom40iEWZYpC80nbhASjTh4uc004KsgyQep3M5jvuHq+7Sg=="],
+    "wavedrom": ["wavedrom@github:urbanij/wavedrom#5778ec1", { "dependencies": { "bit-field": "git+https://github.com/urbanij/bitfield.git#furbani/dev", "json5": "^2.2.3", "logidrom": "^0.3.1", "onml": "^2.1.0", "tspan": "^0.4.0" }, "bin": { "wavedrom": "bin/cli.js" } }, "urbanij-wavedrom-5778ec1", "sha512-uRgQVX5vcF1/hAkw4Zk4fz6s5l/cAShV7WfA/L9HfMN3fDnU0fBGWFqGhI9wGgFtWgaDoZoht/IgdMVpxSGckQ=="],
 
     "which": ["which@2.0.2", "", { "dependencies": { "isexe": "^2.0.0" }, "bin": { "node-which": "./bin/node-which" } }, "sha512-BLI3Tl1TW3Pvl70l3yq3Y64i+awpwXqsGBYWkkqMtnbXgrMD+yj7rhW0kuEDxzJaYXGjEW5ogapKNMEKNMjibA=="],
 
