@@ -104,7 +104,7 @@
 
     "balanced-match": ["balanced-match@1.0.2", "", {}, "sha512-3oSeUO0TMV67hN1AmbXsK4yaqU7tjiHlbxRDZOpH0KW9+CeX4bRAaX0Anxt0tx2MrpRpWwQaPwIlISEJhYU5Pw=="],
 
-    "bit-field": ["bit-field@github:urbanij/bitfield#9c9db74", { "dependencies": { "fs-extra": "^11.2.0", "onml": "^2.1.0", "tspan": "^0.4.0", "yargs": "^17.7.2" }, "bin": { "bitfield": "./bin/bitfield.js" } }, "urbanij-bitfield-9c9db74", "sha512-pbmR/9qKP+m87zgi7xNSGybVMNJSEASTxp6FBiuSDSKK1dRQ1/QESVe8UwVaC7RLD8CSQHdCOOCEh1UGcG442w=="],
+    "bit-field": ["bit-field@github:urbanij/bitfield#15a4a17", { "dependencies": { "fs-extra": "^11.2.0", "onml": "^2.1.0", "tspan": "^0.4.0", "yargs": "^17.7.2" }, "bin": { "bitfield": "./bin/bitfield.js" } }, "urbanij-bitfield-15a4a17", "sha512-GKZ/7WEZP7whk++bz7CV9LswvORoP5oLMjES7zu+IkaOEldxGn1DQZnIAbnUNaRluZtbDNbLSFgRoZSGS99s8g=="],
 
     "brace-expansion": ["brace-expansion@1.1.18", "", { "dependencies": { "balanced-match": "^1.0.0", "concat-map": "0.0.1" } }, "sha512-Edep/X9fGqVNmzKBVsDYIOtD+z1tuezV70LBjdCst9Tqu76lsnvRiZ6oTic1n+/BIwX6QDGAO94PN4N2SADvtw=="],
 
@@ -228,7 +228,7 @@
 
     "lodash.merge": ["lodash.merge@4.6.2", "", {}, "sha512-0KpjqXRVvrYyCsX1swR/XTK0va6VQkQM6MNo7PqW77ByjAhoARA8EfrP1N4+KlKj8YS0ZUCtRT/YUuhyYDujIQ=="],
 
-    "logidrom": ["logidrom@0.3.1", "", { "dependencies": { "estraverse": "^5.1.0", "tspan": "^0.4.0" } }, "sha512-B1Rjay3Ye/JcythUjMt+KLiLIwOjnMJN1M5BRbDgNMsJhmn7yApbx6n1rw7cT3Fi/NA77HDM+y3y1nXvKQVB9Q=="],
+    "logidrom": ["logidrom@1.0.0", "", { "dependencies": { "estraverse": "^5.1.0", "tspan": "^0.4.0" } }, "sha512-U/EJCm08bYI6N1wY59/9kwFoYGBiJFTc3CPKIcyNpQgBHM4ZsHbQ/tt7ZO7Q0YE4jS9Ms03ni690qH4uSVWhFw=="],
 
     "minimatch": ["minimatch@3.1.5", "", { "dependencies": { "brace-expansion": "^1.1.7" } }, "sha512-VgjWUsnnT6n+NUk6eZq77zeFdpW2LWDzP6zFGrCbHXiYNul5Dzqk2HHQ5uFH2DNW5Xbp8+jVzaeNt94ssEEl4w=="],
 
@@ -296,7 +296,7 @@
 
     "uri-js": ["uri-js@4.4.1", "", { "dependencies": { "punycode": "^2.1.0" } }, "sha512-7rKUyy33Q1yc98pQ1DAmLtwX109F7TIfWlW1Ydo8Wl1ii1SeHieeh0HHfPeL2fMXK6z0s8ecKs9frCuLJvndBg=="],
 
-    "wavedrom": ["wavedrom@github:urbanij/wavedrom#5778ec1", { "dependencies": { "bit-field": "git+https://github.com/urbanij/bitfield.git#furbani/dev", "json5": "^2.2.3", "logidrom": "^0.3.1", "onml": "^2.1.0", "tspan": "^0.4.0" }, "bin": { "wavedrom": "bin/cli.js" } }, "urbanij-wavedrom-5778ec1", "sha512-uRgQVX5vcF1/hAkw4Zk4fz6s5l/cAShV7WfA/L9HfMN3fDnU0fBGWFqGhI9wGgFtWgaDoZoht/IgdMVpxSGckQ=="],
+    "wavedrom": ["wavedrom@github:urbanij/wavedrom#01fb73c", { "dependencies": { "bit-field": "git+https://github.com/urbanij/bitfield.git#furbani/dev", "json5": "^2.2.3", "logidrom": "^1.0.0", "onml": "^2.1.0", "tspan": "^0.4.0" }, "bin": { "wavedrom": "bin/cli.js" } }, "urbanij-wavedrom-01fb73c", "sha512-tvVTt8yZ43SlAfgjzFG3JhePsBbE6AC1Un3HgEHHkU+n0LUTbeT+AVtZBzL9I1sFzJ8KTxG+G4xZRPv7/do7xg=="],
 
     "which": ["which@2.0.2", "", { "dependencies": { "isexe": "^2.0.0" }, "bin": { "node-which": "./bin/node-which" } }, "sha512-BLI3Tl1TW3Pvl70l3yq3Y64i+awpwXqsGBYWkkqMtnbXgrMD+yj7rhW0kuEDxzJaYXGjEW5ogapKNMEKNMjibA=="],
 
